@@ -8,7 +8,7 @@ A Learning Developer...
 * ✉️  You can contact me at [jai@zero65.in](mailto:jai@zero65.in)
 * 🧠  I'm learning DevOps
 
-### Skills
+### Skills:
 
 
 <p align="left">
@@ -64,7 +64,7 @@ A Learning Developer...
 </p>
 
 
-### Socials
+### Socials:
 
 <div align="left">
   <a href="https://www.instagram.com/schrodinger_cat_4" target="_blank">
@@ -76,7 +76,7 @@ A Learning Developer...
   </a>
 </div>
 
-### Badges
+### Badges:
 
 <b>My GitHub Stats</b>
 
