@@ -95,5 +95,5 @@ A Learning Developer...
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/jaigupta04/jaigupta04/output/snake.svg" alt="Snake animation" />
-
+  
 ###
