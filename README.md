@@ -74,6 +74,9 @@ A Learning Developer...
   <a href="https://discord.com/users/jai_004" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
+  <img width="12" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jaigupta04.jaigupta04&"  />
+
 </div>
 
 ### Badges:
