@@ -5,7 +5,7 @@ A Learning Developer...
 ---------------------
 
 * 🌍  I'm based in Bangalore, India
-* ✉️  You can contact me at [jai@zero65.in](mailto:jai@zero65.in)
+* ✉️  You can contact me at [jaigupta004@gmail.com](mailto:jaigupta004@gmail.com)
 * 🧠  I'm learning DevOps
 
 ### Skills:
