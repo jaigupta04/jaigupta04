@@ -24,6 +24,9 @@ A Passionate Software Developer...
 
 </div>
 
+### Resume:
+<a href="./resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge"></a>
+
 ### Badges:
 
 <b>My GitHub Stats</b>
