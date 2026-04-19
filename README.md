@@ -5,17 +5,13 @@
 I’m a backend-focused developer with 1+ year of experience building scalable APIs, real-time data processing systems, and developer tools.
 I enjoy working on distributed systems, cloud infrastructure, and AI-powered applications that solve real-world problems.
 
----
-
 ## 🧠 Skills I Know
 
 * Building scalable backend systems and REST APIs
 * Real-time data processing & webhook architectures
 * Designing developer tools and automation systems
 * Cloud-based application development
-* AI-assisted development using modern tooling
-
----
+* AI-assisted development using modern tooling like GitHub Copilot and Claude Code
 
 ## 💼 Experience
 
@@ -40,8 +36,6 @@ I enjoy working on distributed systems, cloud infrastructure, and AI-powered app
 * Led backend for a platform used by **50+ users & 5+ businesses**
 * Designed **secure REST APIs & data pipelines**
 * Contributed to frontend using **Vue.js**
-
----
 
 ## ⚙️ Tech Skills
 
@@ -69,8 +63,6 @@ PostgreSQL, MySQL, Firestore
 
 Git, Postman, GitHub Copilot, Claude Code, Cursor
 
----
-
 ## 🌐 Socials & Resume
 
 * 📧 Email: [jaigupta004@gmail.com](mailto:jaigupta004@gmail.com)
@@ -78,8 +70,6 @@ Git, Postman, GitHub Copilot, Claude Code, Cursor
 * 💻 GitHub: https://github.com/jaigupta04
 * 🌍 Portfolio: https://jaigupta.me
 * 📄 Resume: [View Resume](./resume.pdf)
-
----
 
 ## 📊 GitHub Stats
 
