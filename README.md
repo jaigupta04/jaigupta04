@@ -28,7 +28,7 @@ I enjoy working on distributed systems, cloud infrastructure, and AI-powered app
 
 * Published **2 NPM packages** with 100+ weekly downloads
 * Built `indian-stock-market` package for NSE schedules & expiry data
-* Created storage abstraction library with **GCS + caching support**
+* Created `storage` abstraction library with **GCS + caching support**
 * Ensured reliability using **Jest testing**
 
 **Product Development (Finance Tracker)**
@@ -39,29 +39,17 @@ I enjoy working on distributed systems, cloud infrastructure, and AI-powered app
 
 ## ⚙️ Tech Skills
 
-### 💻 Languages
+* **Languages** - JavaScript, Python, C/C++, Java, Go, SQL
 
-JavaScript, Python, C/C++, Java, Go, SQL
+* **Frameworks & Librarie**s - Node.js, Express.js, Django, React, Next.js, Vue.js, Flutter, Jest
 
-### 🧩 Frameworks & Libraries
+* **Backend & Systems** - REST APIs, Webhooks, Real-time Processing, System Design
 
-Node.js, Express.js, Django, React, Next.js, Vue.js, Flutter, Jest
+* **Cloud & DevOps** - GCP, AWS, Azure, Docker, Kubernetes, Firebase, Vercel
 
-### 🏗️ Backend & Systems
+* **Databases** - PostgreSQL, MySQL, Firestore
 
-REST APIs, Webhooks, Real-time Processing, System Design
-
-### ☁️ Cloud & DevOps
-
-GCP, AWS, Azure, Docker, Kubernetes, Firebase, Vercel
-
-### 🗄️ Databases
-
-PostgreSQL, MySQL, Firestore
-
-### 🛠️ Tools
-
-Git, Postman, GitHub Copilot, Claude Code, Cursor
+* **Tools** - Git, Postman, GitHub Copilot, Claude Code, Cursor
 
 ## 🌐 Socials & Resume
 
