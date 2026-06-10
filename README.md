@@ -15,7 +15,7 @@ I enjoy working on distributed systems, cloud infrastructure, and AI-powered app
 
 ## 💼 Experience
 
-### 🔹 Backend Engineer Intern — Happyfox (Jan 2026 – Present)
+### 🔹 Backend Engineer Intern — Happyfox (Jan 2026 – Jun 2026)
 
 * Built a **developer debugging dashboard** for voice systems handling 100s of daily calls
 * Designed **webhook-based ingestion pipelines** for real-time Twilio event streams
